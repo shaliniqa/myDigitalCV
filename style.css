@@ -2,8 +2,8 @@
   height:500px;
   padding-left:20px;
   width: 100%;
-   //background-image: url(https://images.unsplash.com/photo-1460602594182-8568137446ce?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c6a89cf0d31c8ed23b35aaf9a119a9f5&w=1000&q=80);
-   background-image: url(https://thumbs.dreamstime.com/b/falling-leaves-natural-background-beautiful-landscape-yellow-trees-green-grass-sun-colorful-foliage-park-77752522.jpg);
+   background-image: url(https://images.unsplash.com/photo-1460602594182-8568137446ce?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c6a89cf0d31c8ed23b35aaf9a119a9f5&w=1000&q=80);
+   //background-image: url(https://thumbs.dreamstime.com/b/falling-leaves-natural-background-beautiful-landscape-yellow-trees-green-grass-sun-colorful-foliage-park-77752522.jpg);
 
 }
 #Welcome
@@ -11,7 +11,7 @@
   font-family: cursive;
   font-weight: bolder;
   font-size: 70px;
-  color: #f46e42;
+  color: white;
   padding-top: 200px;
   margin-left: 300px;
 }
@@ -35,8 +35,8 @@
   text-decoration: none;
   display: block;
   padding-left: 1em;
-  color: coral;
-  font-weight: 300px;
+  color: black;
+  font-weight: 300p;
   text-align: center;
   font-size: 20px;
 }
@@ -82,7 +82,7 @@ h3{
 }
 #skills>section{
   flex:1 1 0;
-  border: 6px solid #e2f441;
+  border: 2px solid white;
   border-radius: 70px;
   margin:20px;
 }
@@ -99,10 +99,10 @@ h3{
 }
 #skills>section:hover
 {
-  background-color: #f48f42;
+  background-color: white;
 }
 #mySkills{
-  background-color: coral;
+  background-color: #517991;
 }
 #contact{
   background-color: #6C7A89;
@@ -148,3 +148,4 @@ h3{
   flex: 1 1 1;
   padding:30px;
 }
+
